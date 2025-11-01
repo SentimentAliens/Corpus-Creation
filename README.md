@@ -20,7 +20,9 @@ This repository contains a Python script for **automatically collecting Slovenia
 Each row in the CSV file corresponds to one Reddit post:
 
 | id | title | selftext | score | url | num_comments | created_utc |
+
 |----|--------|-----------|--------|----------------|--------------|
+
 | t3_xabcd | Ljubljanski promet | Danes spet zastoji na Celovški. | 52 | https://redd.it/xabcd | 13 | 1730462100 |
 
 **Example filename:**  Ljubljana_slovenian_posts_20251101_123806.csv
